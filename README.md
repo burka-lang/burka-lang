@@ -59,6 +59,7 @@ Cybersecurity Tools:
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burka-t-a10235345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Nasif_78) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nasif7850?igsh=MWtvNHVqdDY3YjU3aw==)
