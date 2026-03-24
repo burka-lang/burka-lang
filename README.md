@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Baruk (burka-lang)
 
-🔐 Cybersecurity Enthusiast | 🧠 AI Builder | ⚙️ Linux User  
+#🔐 Cybersecurity Enthusiast | #🧠 AI Builder | #⚙️ Linux User  
 🚀 Building tools for security, automation, and learning
 
 ---
